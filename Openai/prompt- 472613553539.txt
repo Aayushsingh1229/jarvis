@@ -1,0 +1,8 @@
+ openAi response for prompt forward kaise khul jata hai yaar
+ *******************
+
+
+
+(English translation: How does the Firefox browser open up so quickly?)
+
+Firefox apne aap bahut tez se khul jaata hai kyunki isme ek advanced engine hai jo webpages ko load karne mein bahut tez hota hai. Iske alawa, Firefox ke naye versions mein caching technology bhi hai jo pehle se loaded webpages ko save rakhta hai, jisse unhe dobara se load karne ki zaroorat nahi hoti. Isse browser ki performance badhti hai aur wo tez se khulta hai.
